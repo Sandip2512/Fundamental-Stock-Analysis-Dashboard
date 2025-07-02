@@ -45,4 +45,5 @@ A powerful and clean Power BI dashboard that empowers investors to make faster, 
 
 ## 📬 Contact
 
-For queries or collaboration, feel free to reach out via [LinkedIn](#) or email at `your.email@example.com`.
+- 💼 [LinkedIn – Sandip Salunkhe](https://www.linkedin.com/in/sandip-salunkhe-6881b5240)
+- 📧 Email: salunkhesandip2512@gmail.com
